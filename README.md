@@ -1,2 +1,2 @@
 # Sudoku-Images
-Simply Sudoku Book Covers
+Simply Sudoku Book Covers & Logos
